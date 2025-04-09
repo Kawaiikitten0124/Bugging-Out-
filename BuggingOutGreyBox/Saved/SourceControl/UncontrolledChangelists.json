@@ -5,8 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/maggi/OneDrive/Documents/Unreal Projects/Bugging-Out-/BuggingOutGreyBox/Content/Maps/AntColony.umap",
-				"C:/Users/maggi/OneDrive/Documents/Unreal Projects/Bugging-Out-/BuggingOutGreyBox/Content/BugOut.umap",
 				"C:/Users/apoultne/Documents/GitHub/Bugging-Out-/BuggingOutGreyBox/Content/StarterContent/Architecture/FloorWHole.uasset",
 				"C:/Users/apoultne/Documents/GitHub/Bugging-Out-/BuggingOutGreyBox/Content/StarterContent/Shapes/AntHill.uasset",
 				"C:/Users/apoultne/Documents/GitHub/Bugging-Out-/BuggingOutGreyBox/Content/BugOut.umap",
@@ -24,6 +22,9 @@
 				"C:/Users/apoultne/Documents/GitHub/Bugging-Out-/BuggingOutGreyBox/Content/StarterContent/Materials/Orange.uasset",
 				"C:/Users/apoultne/Documents/GitHub/Bugging-Out-/BuggingOutGreyBox/Content/StarterContent/Materials/NewMaterial4.uasset",
 				"C:/Users/apoultne/Documents/GitHub/Bugging-Out-/BuggingOutGreyBox/Content/StarterContent/Materials/NewMaterial5.uasset",
+				"C:/Users/apoultne/Documents/GitHub/Bugging-Out-/BuggingOutGreyBox/Content/Maps/AntColony.umap",
+				"C:/Users/maggi/OneDrive/Documents/Unreal Projects/Bugging-Out-/BuggingOutGreyBox/Content/Maps/AntColony.umap",
+				"C:/Users/maggi/OneDrive/Documents/Unreal Projects/Bugging-Out-/BuggingOutGreyBox/Content/BugOut.umap",
 				"C:/Users/kmurph86/Documents/GitHub/Bugging-Out-/BuggingOutGreyBox/Content/Maps/Finale.umap",
 				"C:/Users/kmurph86/Documents/GitHub/Bugging-Out-/BuggingOutGreyBox/Content/BugOut.umap",
 				"C:/Users/apoultne/Documents/Unreal Projects/BuggingOutGreyBox/Content/StarterContent/Architecture/Floor_400x400.uasset",
