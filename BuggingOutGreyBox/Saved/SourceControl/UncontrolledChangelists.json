@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Game Design Projects/Lvl Design (UNREAL 5)/Bugging-Out-/BuggingOutGreyBox/Content/StarterContent/Architecture/SM_RockWallTest.uasset",
+				"D:/Game Design Projects/Lvl Design (UNREAL 5)/Bugging-Out-/BuggingOutGreyBox/Content/BugOut.umap",
+				"D:/Game Design Projects/Lvl Design (UNREAL 5)/Bugging-Out-/BuggingOutGreyBox/Content/_GENERATED/kelli/RockWall_DEE30751.uasset",
+				"D:/Game Design Projects/Lvl Design (UNREAL 5)/Bugging-Out-/BuggingOutGreyBox/Content/StarterContent/Architecture/SM_RockWall.uasset",
+				"D:/Game Design Projects/Lvl Design (UNREAL 5)/Bugging-Out-/BuggingOutGreyBox/Content/StarterContent/Architecture/SM_RockPlatorm.uasset",
+				"D:/Game Design Projects/Lvl Design (UNREAL 5)/Bugging-Out-/BuggingOutGreyBox/Content/StarterContent/Architecture/SM_RockPillar.uasset",
 				"C:/Users/kmurph86/Documents/GitHub/Bugging-Out-/BuggingOutGreyBox/Content/Maps/Finale.umap",
 				"C:/Users/kmurph86/Documents/GitHub/Bugging-Out-/BuggingOutGreyBox/Content/BugOut.umap",
 				"C:/Users/kmurph86/Documents/GitHub/Bugging-Out-/BuggingOutGreyBox/Content/StarterContent/Architecture/WallWHole.uasset",
