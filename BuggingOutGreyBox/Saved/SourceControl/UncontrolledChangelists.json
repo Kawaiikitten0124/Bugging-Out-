@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/kmurph86/Documents/Bugging-Out-/BuggingOutGreyBox/Content/DropOffFood.uasset",
+				"C:/Users/kmurph86/Documents/Bugging-Out-/BuggingOutGreyBox/Content/ThirdPerson/Blueprints/AntModel_Blueprint.uasset",
+				"C:/Users/kmurph86/Documents/Bugging-Out-/BuggingOutGreyBox/Content/ThirdPerson/Blueprints/AntJump.uasset",
+				"C:/Users/kmurph86/Documents/Bugging-Out-/BuggingOutGreyBox/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/kmurph86/Documents/Bugging-Out-/BuggingOutGreyBox/Content/Assests/CollectionCube.uasset",
+				"C:/Users/kmurph86/Documents/Bugging-Out-/BuggingOutGreyBox/Content/Maps/AntColony.umap",
+				"C:/Users/kmurph86/Documents/Bugging-Out-/BuggingOutGreyBox/Content/Maps/PinicArea.umap",
 				"C:/Users/apoultne/Documents/GitHub/Bugging-Out-/BuggingOutGreyBox/Content/StarterContent/Architecture/FloorWHole.uasset",
 				"C:/Users/apoultne/Documents/GitHub/Bugging-Out-/BuggingOutGreyBox/Content/StarterContent/Shapes/AntHill.uasset",
 				"C:/Users/apoultne/Documents/GitHub/Bugging-Out-/BuggingOutGreyBox/Content/BugOut.umap",
